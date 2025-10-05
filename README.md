@@ -4,7 +4,7 @@
 
 ### *React Assignment – Build a Basic SPA*
 
-* The node_modules folder could not upload because it was too large
+* The node_modules folder could not upload because it was too large so the essentials (react and react-dom needed to run the project was uploaded)
 
 *What to Do*
 
